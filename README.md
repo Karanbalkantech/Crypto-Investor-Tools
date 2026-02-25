@@ -430,6 +430,9 @@ https://coindar.org/
 * **Cryptowatch** Live price charts and market data for Bitcoin, Ethereum, and more.
 https://cryptowat.ch/
 
+* **ChartScout** Automated crypto chart pattern detection and technical analysis screener. Identify cup and handle, flags, and other patterns across hundreds of coins in real-time. https://chartscout.io/
+
+
 * **Bitcoin Wisdom** Live Bitcoin/Litecoin charts with EMA, MACD and other indicators.
 https://bitcoinwisdom.io/
 
